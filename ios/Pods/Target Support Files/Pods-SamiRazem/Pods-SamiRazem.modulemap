@@ -1,0 +1,6 @@
+module Pods_DomoweHarce {
+  umbrella header "Pods-DomoweHarce-umbrella.h"
+
+  export *
+  module * { export * }
+}

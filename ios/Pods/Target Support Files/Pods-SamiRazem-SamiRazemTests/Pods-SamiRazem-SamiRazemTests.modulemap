@@ -1,0 +1,6 @@
+module Pods_DomoweHarce_DomoweHarceTests {
+  umbrella header "Pods-DomoweHarce-DomoweHarceTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
